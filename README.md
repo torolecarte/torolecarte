@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome 👋
+
+Here we create and squash bugs! 🐛 🐜
 
 <!--
 **torolecarte/torolecarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

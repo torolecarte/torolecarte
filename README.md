@@ -1,4 +1,4 @@
-## Welcome 👋
+Welcome 👋
 
 Here we create and squash bugs! 🐛 🐜
 
